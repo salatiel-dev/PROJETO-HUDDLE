@@ -5,7 +5,9 @@ Este é um clone da **landing page do Huddle**, desenvolvido com foco em treinar
 
 ## 🖼️ Preview
 
-
+ <img src="![Image](https://github.com/user-attachments/assets/cd924599-9b20-4ee9-9af4-2356704d3543)"  width="300" />
+</div>
+<div>
 <div class="image-gallery">
   <div class="image-item">
     <img src="https://github.com/user-attachments/assets/cd924599-9b20-4ee9-9af4-2356704d3543" alt="Imagem 1" />
