@@ -5,48 +5,6 @@ Este é um clone da **landing page do Huddle**, desenvolvido com foco em treinar
 
 ## 🖼️ Preview
 
-<style>
-  .image-gallery {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-    padding: 20px;
-  }
-
-  .image-item {
-    text-align: center;
-    max-width: 300px;
-  }
-
-  .image-item img {
-    width: 100%;
-    border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-    transition: transform 0.3s ease;
-  }
-
-  .image-item img:hover {
-    transform: scale(1.05);
-  }
-
-  .image-caption {
-    margin-top: 8px;
-    font-size: 14px;
-    color: #555;
-  }
-
-  @media (max-width: 600px) {
-    .image-gallery {
-      flex-direction: column;
-      align-items: center;
-    }
-
-    .image-item {
-      width: 90%;
-    }
-  }
-</style>
 
 <div class="image-gallery">
   <div class="image-item">
