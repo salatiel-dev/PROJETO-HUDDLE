@@ -8,11 +8,15 @@ Este é um clone da **landing page do Huddle**, desenvolvido com foco em treinar
 
 <div class="image-gallery">
   <div class="image-item">
-    <img src="https://github.com/user-attachments/assets/cd924599-9b20-4ee9-9af4-2356704d3543" alt="Imagem 1" />
-    <img src="![Image](https://github.com/user-attachments/assets/cd924599-9b20-4ee9-9af4-2356704d3543)"  width="300" />
-    <img src="https://github.com/user-attachments/assets/b18e3fd6-0c56-4232-8a35-237c24037630" alt="Imagem 2" />
-    <div class="image-caption">Legenda da imagem 1</div>
+    <div class="image-row">
+      <img src="![Image](https://github.com/user-attachments/assets/3bf7c90e-eb74-4752-ac2d-af251502bd25)"  width="300" />
+      <img src="![Image](https://github.com/user-attachments/assets/918ecd30-6b71-463f-a28b-0d81b0c8c86a)"  width="300" />
+      <img src="![Image](https://github.com/user-attachments/assets/fa0e3b80-005d-4a2b-94bf-0e5c4995d80f)"  width="300" />
+    </div>
+    <div class="image-caption">PROJETO-HUDDLE</div>
   </div>
+</div>
+
 ## 🛠️ Tecnologias utilizadas
 
 - HTML5
