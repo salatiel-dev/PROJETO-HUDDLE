@@ -5,7 +5,7 @@ Este é um clone da **landing page do Huddle**, desenvolvido com foco em treinar
 
 ## 🖼️ Preview
 
-![Preview da Página](https://github.com/user-attachments/assets/ed5826c7-e7ed-4945-a058-95fc09082708)
+![Preview da Página](https://github.com/user-attachments/assets/1a61447f-8586-4b8a-b45a-2f3e591b2e19)
 
 
 ## 🛠️ Tecnologias utilizadas
