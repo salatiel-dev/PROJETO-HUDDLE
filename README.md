@@ -1,33 +1,29 @@
 # 💬 Projeto Huddle Landing Page
 
-Este é um clone da **landing page do Huddle**, desenvolvido com o objetivo de praticar conceitos fundamentais de **HTML5** e **CSS3**.
+Este é um clone da **landing page do Huddle**, desenvolvido com foco em treinar **HTML5**, **CSS3** e principalmente **CSS Grid Layout**.
 
-🔗 Repositório: [salatiel-dev/PROJETO-HUDDLE](https://github.com/salatiel-dev/PROJETO-HUDDLE)
+🔗 Acesse o repositório: [PROJETO-HUDDLE](https://github.com/salatiel-dev/PROJETO-HUDDLE)
 
----
+## 🖼️ Preview
+
+
 
 ## 🛠️ Tecnologias utilizadas
 
-- **HTML5**: Estruturação semântica da página
-- **CSS3**: Estilização e responsividade
-
-
-
----
+- HTML5
+- CSS3
+- CSS Grid
 
 ## 🧱 Estrutura do layout
 
-A página foi dividida em três áreas.
+O layout foi dividido em três áreas principais usando `grid-template-areas`:
 
-- `header`: contém o logotipo do Huddle na parte superior.
-- `main`: inclui a imagem ilustrativa, o texto de destaque e o botão de ação.
-- `footer`: exibe os ícones das redes sociais no rodapé.
+- `header`: área superior com o logotipo.
+- `main`: seção central com imagem, texto de destaque e botão.
+- `footer`: rodapé com os ícones das redes sociais.
 
----
-
-## 🚀 Como executar o projeto localmente
+## 🚀 Como executar o projeto
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/salatiel-dev/PROJETO-HUDDLE.git
-   ```
