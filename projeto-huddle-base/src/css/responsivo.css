@@ -1,0 +1,72 @@
+@media (max-width: 768px) {
+    body {
+      background: var(--primary-color) url(../images/bg-mobile.svg) no-repeat;
+      background-size: contain;
+      text-align: center;
+    }
+  
+    .header {
+      padding: 2rem 1.5rem;
+      text-align: left;
+    }
+  
+    .logo img {
+      height: 40px;
+    }
+  
+    .main {
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem 1.5rem;
+      gap: 3rem;
+    }
+  
+    .mockups {
+      flex: none;
+      width: 100%;
+    }
+  
+    .mockups img {
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+    }
+  
+    .content {
+      flex: none;
+      max-width: 100%;
+    }
+  
+    .content h1 {
+      font-size: 1.75rem;
+      line-height: 1.4;
+      margin-bottom: 1.2rem;
+    }
+  
+    .content p {
+      font-size: 1rem;
+      line-height: 1.6;
+      margin-bottom: 2rem;
+      padding: 0 0.5rem;
+    }
+  
+    .btn {
+      font-size: 1rem;
+      padding: 0.9rem 2.5rem;
+      border-radius: 30px;
+      width: 80%;
+      max-width: 300px;
+    }
+  
+    .footer {
+      position: static;
+      margin-top: 2rem;
+      justify-content: center;
+    }
+  
+    .social {
+      justify-content: center;
+    }
+  }
+  
