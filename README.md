@@ -1,6 +1,8 @@
 # 💬 Projeto Huddle Landing Page
 
 Este é um clone da **landing page do Huddle**, desenvolvido com foco em treinar **HTML5**, **CSS3**
+
+
 🔗 Acesse o repositório: [PROJETO-HUDDLE](https://github.com/salatiel-dev/PROJETO-HUDDLE)
 
 ## 🖼️ Preview
